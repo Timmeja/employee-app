@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "a7658e03-95f8-4dab-b5b7-a1c097d30d1e",
+		"name": "employee collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17816488"
+	},
+	"item": [
+		{
+			"name": "teszt kérés",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8888",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888"
+				}
+			},
+			"response": []
+		}
+	]
+}
